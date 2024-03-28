@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="65763a05-23d1-411b-8862-35a31d672081" name="Changes" comment="java learning 0324">
+      <change afterPath="$PROJECT_DIR$/java_ArrayList/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ArrayList/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ArrayList/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ArrayList/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ArrayList/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ArrayList/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ArrayList/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ArrayList/Java_ArrayList.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ArrayList/src/RunoobTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_Encapsulation/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_Encapsulation/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_Encapsulation/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_Encapsulation/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_Encapsulation/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_Encapsulation/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_Encapsulation/java_Encapsulation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_Encapsulation/src/EncapTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_Encapsulation/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_Encapsulation/src/RunEncap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_HashMap/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_HashMap/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_HashMap/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_HashMap/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_HashMap/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_HashMap/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_HashMap/java_HashMap.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_HashMap/src/RunoobTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_HashSet/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_HashSet/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_HashSet/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_HashSet/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_HashSet/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_HashSet/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_HashSet/java_HashSet.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_HashSet/src/RunoobTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_Interface/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_Interface/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_Interface/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_Interface/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_Interface/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_Interface/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_Interface/java_Interface.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_Interface/src/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_Interface/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_Interface/src/MammalInt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_Iterator/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_Iterator/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_Iterator/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_Iterator/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_Iterator/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_Iterator/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_Iterator/java_Iterator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_Iterator/src/RunoobTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_LinkedList/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_LinkedList/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_LinkedList/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_LinkedList/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_LinkedList/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_LinkedList/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_LinkedList/java_LinkedList.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_LinkedList/src/RunoobTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_enum/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_enum/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_enum/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_enum/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_enum/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_enum/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_enum/java_enum.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_enum/src/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_enum/src/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_enum/src/Test3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_object/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_object/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_object/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_object/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_object/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_object/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_object/java_object.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_object/src/RunoobTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javatest/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javatest/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javatest/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javatest/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javatest/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javatest/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javatest/javatest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javatest/src/AbstractDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javatest/src/AbstractDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javatest/src/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javatest/src/Employee2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javatest/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javatest/src/Salary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javatest/src/Salary2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javatest/src/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javatest/src/VirtualDemo.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="linian &lt;34099648+linian257888@users.noreply.github.com&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="2e7HN02109aut4kgb7qnNkPjxoN" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.RunoobTest">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="java-learning" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RunoobTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RunoobTest" />
+      <module name="java-learning" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="calendar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="calendar" />
+      <module name="java-learning" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.RunoobTest" />
+        <item itemvalue="Application.calendar" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="65763a05-23d1-411b-8862-35a31d672081" name="Changes" comment="" />
+      <created>1711248652201</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1711248652201</updated>
+    </task>
+    <task id="LOCAL-00001" summary="java learning 0324">
+      <created>1711249702010</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1711249702010</updated>
+    </task>
+    <task id="LOCAL-00002" summary="java learning 0324">
+      <created>1711249725828</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1711249725828</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="java learning 0324" />
+    <option name="LAST_COMMIT_MESSAGE" value="java learning 0324" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
